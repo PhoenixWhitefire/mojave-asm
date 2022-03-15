@@ -40,7 +40,7 @@ hlt:
 
 Example code - add 3 and 2, then multiply by 5, and halt the program.
 
-`
+```
 push #5
 push #2
 push #3
@@ -49,4 +49,4 @@ add
 mul
 
 hlt
-`
+```
